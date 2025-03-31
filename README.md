@@ -3,7 +3,11 @@
 <!-- STARRED_REPOS_START -->
 ## Starred Repositories by Language
 
-*Total: 10 repositories across 2 languages*
+*Total: 11 repositories across 3 languages*
+
+### Go (1)
+
+- [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 
 ### JavaScript (7)
 

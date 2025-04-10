@@ -16,3 +16,4 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           github-username: ${{ github.actor }}
+          build-web: true

@@ -3,7 +3,7 @@
 <!-- STARRED_REPOS_START -->
 ## Starred Repositories by Language
 
-*Total: 11 repositories across 3 languages*
+*Total: 12 repositories across 4 languages*
 
 ### Go (1)
 
@@ -18,6 +18,10 @@
 - [vectorCodes/Botmate-ui](https://github.com/vectorCodes/Botmate-ui)
 - [vectorCodes/userProfile](https://github.com/vectorCodes/userProfile)
 - [vectorCodes/Landing-Page](https://github.com/vectorCodes/Landing-Page) - My first landing page
+
+### TypeScript (1)
+
+- [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev) - ⚡ Lingo.dev - open-source, AI-powered i18n toolkit for instant localization with LLMs. Bring your own LLM or use Lingo.dev Localization Engine. Join discord:
 
 ### Unknown (3)
 

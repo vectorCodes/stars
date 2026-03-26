@@ -3,7 +3,11 @@
 <!-- STARRED_REPOS_START -->
 ## Starred Repositories by Language
 
-*Total: 12 repositories across 4 languages*
+*Total: 15 repositories across 5 languages*
+
+### C++ (1)
+
+- [mxvsh/wave](https://github.com/mxvsh/wave) - Native macOS dictation app focused on fast voice-to-text workflows.
 
 ### Go (1)
 
@@ -19,8 +23,10 @@
 - [vectorCodes/userProfile](https://github.com/vectorCodes/userProfile)
 - [vectorCodes/Landing-Page](https://github.com/vectorCodes/Landing-Page) - My first landing page
 
-### TypeScript (1)
+### TypeScript (3)
 
+- [drivebase/drivebase](https://github.com/drivebase/drivebase) - Drivebase is a cloud-agnostic file management platform for people and teams using multiple storage providers. 🚀 
+- [mxvsh/svglogo](https://github.com/mxvsh/svglogo) - Generate clean icon-based logos instantly in your browser. Export as SVG, PNG, or ICO.
 - [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev) - ⚡ Lingo.dev - open-source, AI-powered i18n toolkit for instant localization with LLMs. Bring your own LLM or use Lingo.dev Localization Engine. Join discord:
 
 ### Unknown (3)

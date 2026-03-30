@@ -5,10 +5,6 @@
 
 *Total: 15 repositories across 5 languages*
 
-### C++ (1)
-
-- [mxvsh/wave](https://github.com/mxvsh/wave) - Native macOS dictation app focused on fast voice-to-text workflows.
-
 ### Go (1)
 
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
@@ -22,6 +18,10 @@
 - [vectorCodes/Botmate-ui](https://github.com/vectorCodes/Botmate-ui)
 - [vectorCodes/userProfile](https://github.com/vectorCodes/userProfile)
 - [vectorCodes/Landing-Page](https://github.com/vectorCodes/Landing-Page) - My first landing page
+
+### Swift (1)
+
+- [mxvsh/wave](https://github.com/mxvsh/wave) - Private macOS dictation app focused on fast voice-to-text workflows.
 
 ### TypeScript (3)
 

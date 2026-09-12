@@ -21,7 +21,7 @@
 
 ### Swift (1)
 
-- [mxvsh/wave](https://github.com/mxvsh/wave) - Private macOS dictation app focused on fast voice-to-text workflows.
+- [get-wave/wave](https://github.com/get-wave/wave) - Private macOS dictation app focused on fast voice-to-text workflows.
 
 ### TypeScript (3)
 
